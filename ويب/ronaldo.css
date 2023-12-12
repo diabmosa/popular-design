@@ -1,0 +1,148 @@
+
+body{
+background-image: url(img/mn.png);
+background-size:cover;
+}
+.allimg div img {
+    display: flex;
+justify-content: space-between;
+position: relative;
+top: 100px;
+
+}
+
+/* متنساش تعمل grouping */
+
+.img1{
+    border: 1.5px solid #e0e0e0e0; 
+   border-radius:50px ;
+   width: 290px;
+   overflow: hidden;
+    float: left;
+  position: relative;
+  left: 37px;
+  top: 10px;
+}
+.img2{
+    border: 1.5px solid #e0e0e0e0;
+    width: 290px;
+    border-radius:50px ;
+    overflow: hidden;
+    float: left;
+    position: relative;
+    left: 74px;
+    top: 10px;
+
+}
+.img3{
+    border: 1.5px solid #e0e0e0e0;
+    width: 290px;
+    border-radius:50px ;
+    overflow: hidden;
+    float: left;
+   
+    position: relative;
+    left: 111px;
+    top: 10px;
+}
+.img4{
+    border: 1.5px solid #e0e0e0e0;
+    width: 290px;
+    border-radius:50px ;
+    overflow: hidden;
+    position: relative;
+    left: 148px;
+    top: 10px;
+
+}
+.img1:hover{
+    transform: scale(1.1);
+    border: 2px solid white;
+   
+}
+.img2:hover{
+    transform: scale(1.1);
+    border: 2px solid white;
+
+}
+.img3:hover{
+    transform: scale(1.1);
+    border: 2px solid white;
+
+}
+.img4:hover{
+    transform: scale(1.1);
+    border: 2px solid white;
+overflow: hidden;
+}
+.CR7 div h2{
+    display: flex;
+    justify-content: space-between;
+
+}
+.cr1{
+    display: inline-block;
+    color: white;
+    position: fixed;
+    left: 60px;
+  
+}
+.cr1 h2{
+    position: relative;
+    left: 50px;
+color: rgb(244, 229, 10);
+}
+.cr2{
+    display: inline-block;
+    color: white;
+    position: fixed;
+    left: 380px;
+}
+.cr2 h2{
+    position: relative;
+    left: 50px;
+   color: rgb(244, 229, 10);;
+   }
+   .cr3{
+    display: inline-block;
+    color: white;
+    position: fixed;
+    left: 730px;
+}
+.cr3 h2{
+    position: relative;
+    left: 50px;
+   color: rgb(244, 229, 10);;
+   }
+.cr4{
+    display: inline-block;
+    color: white;
+    position: fixed;
+   left: 1060px;
+}
+.cr4 h2{
+    position: relative;
+    left: 50px;
+   color: rgb(244, 229, 10);;
+   }
+   .cr1:hover{
+    color: rgb(132 255 8);
+    text-shadow: -2px -1px 0px #e0e0e063;
+    font-size: 17px;
+    }
+    .cr2:hover{
+        color: rgb(132 255 8);
+        text-shadow: -2px -1px 0px #e0e0e063;
+        font-size: 17px;
+        }
+        .cr3:hover{
+            color: rgb(132 255 8);
+            text-shadow: -2px -1px 0px #e0e0e063;
+            font-size: 17px;
+            }
+            .cr4:hover{
+                color: rgb(132 255 8);
+                text-shadow: -2px -1px 0px #e0e0e063;
+                font-size: 17px;
+                }
+                                        
